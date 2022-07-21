@@ -6,8 +6,8 @@ const fibonacci = function(n) {
     }
     else console.log("OOPS"); return "OOPS"
 };  
-
-fibonacci(50)
+// let x = Math.pow(123, 23)
+fibonacci((Math.pow(123, 23)))
 
 // Do not edit below this line
 module.exports = fibonacci;
